@@ -22,10 +22,13 @@
 ![pic6](https://github.com/DeekshaAchar/TicTacToeGame/assets/109525095/d8dd175c-78df-414f-a7dd-9df36629d8a7)
 
 ## 7.Displaying Computer Win
-
 https://github.com/DeekshaAchar/TicTacToeGame/assets/109525095/a6492a36-03e2-419d-9c6f-67961861b9d5
 
 
 ## 8.Displaying Player win
+
+Uploading player win - Trim.mp4…
+
+
 
 ## 9.Displaying a Tie
