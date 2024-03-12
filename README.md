@@ -11,6 +11,8 @@
 
 
 ## 4.Ortho View
+![pic4](https://github.com/DeekshaAchar/TicTacToeGame/assets/109525095/ba5eac5a-2c93-40e3-9cc8-f765cd286a04)
+
 
 ## 5.Perspective view
 
