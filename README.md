@@ -19,6 +19,7 @@
 
 
 ## 6.Showing'O' and  'X' as input
+![pic6](https://github.com/DeekshaAchar/TicTacToeGame/assets/109525095/d8dd175c-78df-414f-a7dd-9df36629d8a7)
 
 ## 7.Displaying Computer Win
 
