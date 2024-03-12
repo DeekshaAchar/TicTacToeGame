@@ -27,6 +27,8 @@ https://github.com/DeekshaAchar/TicTacToeGame/assets/109525095/a6492a36-03e2-419
 
 ## 8.Displaying Player win
 
+https://github.com/DeekshaAchar/TicTacToeGame/assets/109525095/aed6d690-9f86-4820-ae67-36683e04c906
+
 
 
 
