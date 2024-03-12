@@ -4,6 +4,7 @@
 
 
 ## 2.Displaying Menu
+![pic2](https://github.com/DeekshaAchar/TicTacToeGame/assets/109525095/4d298355-6d54-4a4a-b79b-3dd5db3d7fb5)
 
 ## 3.Help page
 
