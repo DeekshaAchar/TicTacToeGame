@@ -15,6 +15,8 @@
 
 
 ## 5.Perspective view
+![pic5](https://github.com/DeekshaAchar/TicTacToeGame/assets/109525095/081e75e9-5218-4056-b04c-8d4054f04f29)
+
 
 ## 6.Showing'O' and  'X' as input
 
