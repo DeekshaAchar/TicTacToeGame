@@ -7,6 +7,8 @@
 ![pic2](https://github.com/DeekshaAchar/TicTacToeGame/assets/109525095/4d298355-6d54-4a4a-b79b-3dd5db3d7fb5)
 
 ## 3.Help page
+![pic3](https://github.com/DeekshaAchar/TicTacToeGame/assets/109525095/191acff8-3645-46fc-b4c4-f017e815aa7e)
+
 
 ## 4.Ortho View
 
