@@ -23,6 +23,9 @@
 
 ## 7.Displaying Computer Win
 
+https://github.com/DeekshaAchar/TicTacToeGame/assets/109525095/a6492a36-03e2-419d-9c6f-67961861b9d5
+
+
 ## 8.Displaying Player win
 
 ## 9.Displaying a Tie
